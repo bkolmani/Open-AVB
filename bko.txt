@@ -1,0 +1,2 @@
+Forked from Open-AVB Intel project.
+Used as basis for evaluation on different Linux platforms.
